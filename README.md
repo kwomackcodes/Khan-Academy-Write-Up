@@ -23,7 +23,7 @@ The first view allows for both internal and external users to view usage growth 
 #### *Program Level View*
 The second view is intended primarily for internal stakewholders who are interested in examining program effectiveness across district and program characteristics. The parameters in this view were designed to give specialized analysts with highly customizable views of intervention success.
 
-![Program-Level View](https://github.com/kwomackcodes/Khan-Academy-Write-Up/blob/main/images/Program%20Level%20View.jpg))
+![Program-Level View](https://github.com/kwomackcodes/Khan-Academy-Write-Up/blob/main/images/Program%20Level%20View.jpg)
 
 **Observations**
 - Both Model A and Model B appear to have greater positive effects on usage growth.

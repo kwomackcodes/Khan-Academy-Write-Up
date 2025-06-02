@@ -13,7 +13,7 @@ With the data validated and assumptions registered (see data discovdery write-up
 #### *District Level View*
 The first view allows for both internal and external users to view total usage growth in a given district over the course of the semester year. Additionally, lines for both pre- and post-program usage growth are plotted against each other so that the intervention effectiveness can be evaluated.
 
-![District Level Image](https://github.com/kwomackcodes/Khan-Academy-Write-Up/blob/main/images/District%20Level%20View.jpg)
+![District Level Image](https://github.com/kwomackcodes/Khan-Academy-Write-Up/blob/main/screenshots/District%20Level%20View.jpg)
 
 **Observations**
 - Sometimes looking at *Very Active Learners* alone doesn't tell the whole story, for example:
@@ -23,7 +23,7 @@ The first view allows for both internal and external users to view total usage g
 #### *Program Level View*
 The second view is intended primarily for internal or skilled stakewholders who are interested in examining program effectiveness across district and program characteristics. The parameters in this view were designed to give specialized analysts with highly customizable cross sections by which to examine the average growth in active or very active learners to rostered learners.
 
-![Program-Level View](https://github.com/kwomackcodes/Khan-Academy-Write-Up/blob/main/images/Program%20Level%20View.jpg)
+![Program-Level View](https://github.com/kwomackcodes/Khan-Academy-Write-Up/blob/main/screenshots/Program%20Level%20View.jpg)
 
 **Observations**
 - Both Model A and Model B appear to have greater positive effects on usage growth.

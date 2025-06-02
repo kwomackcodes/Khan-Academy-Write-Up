@@ -32,4 +32,5 @@ The second view is intended primarily for internal stakewholders who are interes
 #### Future Work/Unanswered Questions
 - Does program effectiveness vary by grade level? Or district size?
 - Do certain subjects/topics retain more/less active and very active learners than others?
+- For the second view could we add columns/change the calculation to return a weighted average?
 
